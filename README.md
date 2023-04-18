@@ -6,7 +6,7 @@ Hey there! This is a fixed version of the MiniLibX library for macOS users. We'v
 
 ## What's Fixed?
 
-We've addressed a few warnings and errors in the Swift code, including:
+I've addressed a few warnings and errors in the Swift code, including:
 
 - Properly initializing `UnsafeMutableRawPointer`
 - Using `withUnsafeMutableBytes` instead of the temporary pointer
