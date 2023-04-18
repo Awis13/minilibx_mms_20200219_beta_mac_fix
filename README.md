@@ -1,2 +1,0 @@
-# minilibx_mms_20200219_beta_mac_fix
-# minilibx_mms_20200219_beta_mac_fix
