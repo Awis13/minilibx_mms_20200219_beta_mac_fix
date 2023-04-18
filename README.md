@@ -1,5 +1,7 @@
 # MiniLibX Fixed for macOS
 
+![Screenshot](./screen.png)
+
 Hey there! This is a fixed version of the MiniLibX library for macOS users. We've patched up some issues in the Swift code and made it more compatible with different systems.
 
 ## What's Fixed?
