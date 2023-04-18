@@ -2,7 +2,7 @@
 
 ![Screenshot](./screen.png)
 
-Hey there! This is a fixed version of the MiniLibX library for macOS users. We've patched up some issues in the Swift code and made it more compatible with different systems.
+Hey there! This is a fixed version of the MiniLibX library for macOS users. I've patched up some issues in the Swift code and made it more compatible with different systems.
 
 ## What's Fixed?
 
